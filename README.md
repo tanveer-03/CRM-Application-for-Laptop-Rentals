@@ -17,7 +17,7 @@ The **CRM Application for Laptop Rentals** is designed to streamline the process
 
 ## Demo Video
 
-Watch the demo video of the CRM Application for Laptop Rentals: [ ] . 
+Watch the demo video of the CRM Application for Laptop Rentals: [https://drive.google.com/file/d/14ZRFEisu0rp9XWaMZt5Cq-aXT11SQdea/view?usp=sharing ] . 
 
 ## Installation Instructions
 
